@@ -26,13 +26,15 @@ body {
 .header {
     background-color: rgb(5, 108, 108);
     min-height: 150px;
+    
 }
 .content {
     background-color: white;
     min-height: 300px;
     padding: 20px;
+ 
 }
 .footer {
     background-color: rgb(99, 56, 240);
-    min-height: 150px;
+    min-height: 100px;
 }
